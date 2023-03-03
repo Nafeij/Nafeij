@@ -4,4 +4,4 @@ CS Undergrad, NUS Computing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafeij&layout=compact&hide=actionscript,json&theme=transparent&exclude_repo=NUSH-icode-proj)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Nafeij&style=flat-square&color=0088bb)
+![](https://komarev.com/ghpvc/?username=Nafeij&color=green)
